@@ -1,22 +1,4 @@
-<img src="./readme/logo.png" />
-
 Documentation toolbox for your **javascript** / **typescript** projects based on JSDoc3 with **@category**, **@component** and **@optional** plugins.
-
-This is how it looks:
-
-<table>
-  <tr>
-    <td>
-      <a href='./readme/class.png'><img src="./readme/class.png" style="width: 300px"/></a>
-    </td>
-    <td>
-      <a href='./readme/with-mermaid.png'><img src="./readme/with-mermaid.png" style="width: 300px"/></a>
-    </td>
-    <td>
-      <a href='./readme/component.png'><img src="./readme/component.png" style="width: 300px"/></a>
-    </td>
-  </tr>
-</table>
 
 # Example
 
