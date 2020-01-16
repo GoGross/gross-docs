@@ -572,7 +572,7 @@ Example configuration file with settings for both `default` and `gross-docs` tem
             "navigation": [
                 {
                     "label": "Github",
-                    "href": "https://github.com/SoftwareBrothers/admin-bro"
+                    "href": "https://github.com/GoGross/admin-bro"
                 },
                 {
                     "label": "Example Application",
@@ -592,13 +592,13 @@ If you want to change the theme locally follow the steps:
 
 ```
 cd your-project
-git clone git@github.com:SoftwareBrothers/gross-docs.git
+git clone git@github.com:GoGross/gross-docs.git
 ```
 
 or add it as a git submodule:
 
 ```
-git submodule add git@github.com:SoftwareBrothers/gross-docs.git
+git submodule add git@github.com:GoGross/gross-docs.git
 ```
 
 2. Install the packages

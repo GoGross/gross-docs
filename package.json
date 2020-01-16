@@ -1,5 +1,5 @@
 {
-  "name": "better-docs",
+  "name": "gross-docs",
   "version": "1.4.7",
   "description": "JSdoc theme",
   "main": "publish.js",
@@ -9,8 +9,8 @@
     "build": "babel src --out-dir lib",
     "docs": "jsdoc -c jsdoc.json"
   },
-  "author": "Wojciech Krysiak",
-  "license": "MIT",
+  "author": "Gross Corporation",
+  "license": "GPL",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.4.4",
