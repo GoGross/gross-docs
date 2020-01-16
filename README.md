@@ -633,7 +633,6 @@ The script should launch the browser and refresh it whenever you change somethin
 If you want to see how to setup jsdoc in your project - take a look at these brief tutorials: 
 
 - JSDoc - https://www.youtube.com/watch?v=Yl6WARA3IhQ
-- gross-docs and Mermaid: https://www.youtube.com/watch?v=UBMYogTzsBk
 
 # License
 
