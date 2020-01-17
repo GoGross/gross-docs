@@ -10484,7 +10484,7 @@ body {
 
 .content h2 {
     font-size: 27px;
-    line-height: 52px;
+    line-height: 1.125;
     font-weight: normal;
     margin-bottom: 26px
 }
@@ -10767,7 +10767,7 @@ table.params thead, table.props thead {
 table.params thead th, table.props thead th {
     color: #BDC3CB;
     font-weight: normal;
-    padding: 13px 26px
+    padding: 6px 14px;
 }
 
 table.params tr, table.props tr {
@@ -10775,7 +10775,7 @@ table.params tr, table.props tr {
 }
 
 table.params td, table.props td {
-    padding: 13px 26px
+    padding: 6px 14px;
 }
 
 table.params td.name code, table.props td.name code {
