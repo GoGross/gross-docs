@@ -1,6 +1,6 @@
 {
   "name": "gross-docs",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "JSdoc theme",
   "main": "publish.js",
   "scripts": {
