@@ -7960,13 +7960,18 @@ a.panel-block:hover, label.panel-block:hover {
 
     .column.is-3, .column.is-3-tablet {
         flex: none;
-        width: 25%
     }
 
     .column.is-offset-3, .column.is-offset-3-tablet {
         margin-left: 25%
     }
-
+    @media print
+    {
+        .no-print, .no-print *
+        {
+            display: none !important;
+        }
+    }
     .column.is-4, .column.is-4-tablet {
         flex: none;
         width: 33.33333%
@@ -10460,9 +10465,10 @@ body {
 .content .signature-attributes {
     margin-left: 8px;
     margin-right: 3px;
-    font-style: italic
+    font-style: italic;
+    font-size: 75%;
+    color: #2164e0;
 }
-
 .content header.page-title h1 {
     font-family: "Muli", sans-serif;
     font-size: 47px;
